@@ -1,6 +1,4 @@
-Hapa chini ni **README.md (English version)** ya package yako ya `kenosms` Python SDK. Unaweza kuiweka moja kwa moja kwenye repository yako kama `README.md`.
 
----
 
 # KenoSMS Python SDK
 
